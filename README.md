@@ -17,56 +17,46 @@ devlink.CallLogEventType = CallLogType.Advavanced;
   //Delegate Method 
   devlink.OnConnectionStatus += OnConnectionStatus;
 
-  #private void OnCallLogEventS(object source, CallLog_S_Parameter e)
-  #      {
-  #          try
-  #          {
-               
-  #           // Receiving Call Log
- 
+   #private void OnCallLogEventS(object source, CallLog_S_Parameter e)
+   #      {
+   #          try
+   #          {               
+   #           // Receiving Call Log 
    #         }
    #         catch (Exception ex)
-   #         {
-                
+   #         {                
    #        }
    # }
 
     #private void OnCallLogEventD(object source, CallLog_D_Parameter e)
     #    {
     #        try
-    #        {
-               
-    #         // Receiving Call Log
- 
+    #        {               
+    #         // Receiving Call Log 
     #        }
     #        catch (Exception ex)
-    #        {
-                
+    #        {                
     #        }
     # }
 
     # private void OnCallLogEventA(object source, CallLog_A_Parameter e)
     #    {
     #        try
-    #        {
-               
+    #        {               
     #                // Receiving Call Log
     #        }
     #        catch (Exception ex)
-    #        {
-                
+    #        {                
     #        }
     # }
    
    # private void OnConnectionStatus(object source, Connection_Status_Paramenter e)
-    #    {
-    #        try
-     #       {
-               
-      #         // Receiving Connection Status Log
-       #     }
-        #    catch (Exception ex)
-         #   {
-                
-          #  }
+   #    {
+   #        try
+   #       {               
+   #         // Receiving Connection Status Log
+   #     }
+   #    catch (Exception ex)
+   #   {                
+   #  }
    #}
