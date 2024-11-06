@@ -17,14 +17,13 @@ devlink.CallLogEventType = CallLogType.Advavanced;
   //Delegate Method 
   devlink.OnConnectionStatus += OnConnectionStatus;
 
-
   private void OnCallLogEventS(object source, CallLog_S_Parameter e)
         {
             try
             {
-
-               // Receiving Call Log
-
+               
+             // Receiving Call Log
+ 
             }
             catch (Exception ex)
             {
@@ -58,6 +57,7 @@ devlink.CallLogEventType = CallLogType.Advavanced;
                 
             }
    }
+   
    private void OnConnectionStatus(object source, Connection_Status_Paramenter e)
         {
             try
