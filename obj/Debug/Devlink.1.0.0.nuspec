@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Devlink</id>
+    <version>1.0.0</version>
+    <title>Devlink</title>
+    <authors>Imran Ali</authors>
+    <projectUrl>https://github.com/seimranali/Devlink.git</projectUrl>
+    <description>Devlink is a .NET managed library wrapper for working with the Avaya IP 500 Central</description>
+    <tags>Devlink Avaya IP 500 Devlink Call Logs</tags>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Devlink\bin\Debug\net6.0\Devlink.dll" target="lib\net6.0\Devlink.dll" />
+  </files>
+</package>

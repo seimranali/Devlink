@@ -1,0 +1,11 @@
+D:\Devlink\bin\Release\net6.0\Devlink.deps.json
+D:\Devlink\bin\Release\net6.0\Devlink.dll
+D:\Devlink\bin\Release\net6.0\Devlink.pdb
+D:\Devlink\obj\Release\net6.0\Devlink.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devlink\obj\Release\net6.0\Devlink.AssemblyInfoInputs.cache
+D:\Devlink\obj\Release\net6.0\Devlink.AssemblyInfo.cs
+D:\Devlink\obj\Release\net6.0\Devlink.csproj.CoreCompileInputs.cache
+D:\Devlink\obj\Release\net6.0\Devlink.dll
+D:\Devlink\obj\Release\net6.0\refint\Devlink.dll
+D:\Devlink\obj\Release\net6.0\Devlink.pdb
+D:\Devlink\obj\Release\net6.0\ref\Devlink.dll
